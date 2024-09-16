@@ -1,2 +1,3 @@
 # VBNET
-VB.NET code
+
+Code is migrated in .NET framework
