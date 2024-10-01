@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shreesh_work\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "D:\\Shreesh_work\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\Welcome\\.nuget\\packages\\",
-      "outputPath": "D:\\Shreesh_work\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Welcome\\AppData\\Roaming\\NuGet\\NuGet.Config",

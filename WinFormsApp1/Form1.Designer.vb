@@ -81,7 +81,7 @@ Partial Class Form1
         ' Button5
         ' 
         Button5.BackColor = SystemColors.ControlDarkDark
-        Button5.Location = New Point(276, 130)
+        Button5.Location = New Point(218, 166)
         Button5.Name = "Button5"
         Button5.Size = New Size(81, 48)
         Button5.TabIndex = 4
@@ -91,7 +91,7 @@ Partial Class Form1
         ' Button6
         ' 
         Button6.BackColor = SystemColors.ControlDarkDark
-        Button6.Location = New Point(471, 130)
+        Button6.Location = New Point(475, 166)
         Button6.Name = "Button6"
         Button6.Size = New Size(81, 48)
         Button6.TabIndex = 5
@@ -101,7 +101,7 @@ Partial Class Form1
         ' Button7
         ' 
         Button7.BackColor = SystemColors.ControlDarkDark
-        Button7.Location = New Point(378, 207)
+        Button7.Location = New Point(340, 273)
         Button7.Name = "Button7"
         Button7.Size = New Size(81, 48)
         Button7.TabIndex = 7

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\shreesh_work\\windows_application\\exception_handling\\vbnet\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\shreesh_work\\windows_application\\exception_handling\\vbnet\\winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\shreesh_work\\windows_application\\exception_handling\\vbnet\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E4DAAAC-8625-49B1-8771-54F84AA08F1A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAcwF4BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T10:39:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T10:37:34.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.vb",
+              "ToolTip": "D:\\Shreesh_work\\Windows_Application\\exception_handling\\VBNET\\WinFormsApp1\\Form1.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T10:37:17.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
